@@ -1456,9 +1456,9 @@
     "@types/yargs" "^15.0.0"
     chalk "^3.0.0"
 
-"@mistswapdex/core@^0.0.3":
+"@honkswapdex/core@^0.0.3":
   version "0.0.3"
-  resolved "https://registry.yarnpkg.com/@mistswapdex/core/-/core-0.0.3.tgz#147ed00265e64ba7df0697bcdbf4bde281a764ee"
+  resolved "https://registry.yarnpkg.com/@honkswapdex/core/-/core-0.0.3.tgz#147ed00265e64ba7df0697bcdbf4bde281a764ee"
   integrity sha512-oKCoQ55YkdVMMR3CoYaYHct4XJ9pE81d3kZuNjXO9S/38XO4U0CryaXGAtYLfYrRJpGjflIWCDTPyPQ3z4uRzQ==
   dependencies:
     eip-712 "^0.4.3"
